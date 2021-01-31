@@ -107,7 +107,7 @@ author:
       url: "https://github.com/allanmviana"
     - label: "Instagram"
       icon: "fab fa-fw fa-medium"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/"
 
 # Reading Files
 include:
