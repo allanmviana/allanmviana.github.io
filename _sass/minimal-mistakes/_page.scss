@@ -35,6 +35,13 @@ body {
   flex: 1 0 auto;
 }
 
+.page__content {
+  text-align: justify;
+}
+.sidebar__right {
+  text-align: left;
+}
+
 .page {
   @include breakpoint($large) {
     float: right;
