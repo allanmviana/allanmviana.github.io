@@ -244,15 +244,26 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      related: true
+      comments: true
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-  # _portfolio
+      share: true
+      comments: true
+  # _artigos
+  - scope:
+      path: ""
+      type: artigos
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _projetos
   - scope:
       path: ""
       type: portfolio
@@ -260,4 +271,5 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comments: true
       
