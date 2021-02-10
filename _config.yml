@@ -254,10 +254,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _artigos
+  # _blog
   - scope:
       path: ""
-      type: artigos
+      type: blog
     values:
       layout: single
       author_profile: true
