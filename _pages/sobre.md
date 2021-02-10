@@ -3,6 +3,7 @@ permalink: /sobre/
 title: "Boas-vindas"
 excerpt: "Sobre"
 author_profile: true
+toc: true
 ---
 
 
