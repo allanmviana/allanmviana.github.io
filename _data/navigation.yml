@@ -3,5 +3,5 @@ main:
     url: /artigos/
   - title: "Projetos"
     url: /projetos/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Sobre"
+     url: /sobre/
