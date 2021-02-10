@@ -233,6 +233,15 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  blog:
+    output: true
+    permalink: /:collection/:path/
+  projetos:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
