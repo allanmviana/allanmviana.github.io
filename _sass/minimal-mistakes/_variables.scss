@@ -33,13 +33,13 @@ $header-font-family: $monospace !default;
 $caption-font-family: $serif !default;
 
 /* type scale */
-$type-size-1: 2.4em !default; // ~38px
-$type-size-2: 2em !default; // ~32px
-$type-size-3: 1.75em !default; // ~28px
-$type-size-4: 1.25em !default; // ~20px
-$type-size-5: 1em !default; // ~16px
-$type-size-6: 0.75em !default; // ~12px
-$type-size-7: 0.6875em !default; // ~11px
+$type-size-1: 2.8em !default; // ~38px
+$type-size-2: 2.4em !default; // ~32px
+$type-size-3: 1.9em !default; // ~28px
+$type-size-4: 1.5em !default; // ~20px
+$type-size-5: 1.25em !default; // ~16px
+$type-size-6: 1em !default; // ~12px
+$type-size-7: 0.75em !default; // ~11px
 $type-size-8: 0.625em !default; // ~10px
 
 /* headline scale */
@@ -118,6 +118,7 @@ $masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
 $navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
 
 /* syntax highlighting (base16) */
+/*
 $base00: #263238 !default;
 $base01: #2e3c43 !default;
 $base02: #314549 !default;
@@ -134,7 +135,7 @@ $base0c: #89ddff !default;
 $base0d: #82aaff !default;
 $base0e: #c792ea !default;
 $base0f: #ff5370 !default;
-
+*/
 /*
    Breakpoints
    ========================================================================== */
