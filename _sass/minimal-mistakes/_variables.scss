@@ -13,7 +13,7 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces */
-$serif: Georgia, Times, serif !default;
+$serif: 'Benne', Georgia, Times, serif !default;
 $sans-serif: "Open Sans", sans-serif !default;
 $monospace: "Fira Code", monospace !default;
 
@@ -28,7 +28,7 @@ $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
-$global-font-family: $sans-serif !default;
+$global-font-family: $serif !default;
 $header-font-family: $monospace !default;
 $caption-font-family: $serif !default;
 
