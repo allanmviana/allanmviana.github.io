@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Allan Viana"
   avatar           : "/assets/img/Allan Viana.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Economista, programador, atualmente no Itaú."
+  bio              : "Economista e programador. Atualmente no Itaú."
   location         : "São Paulo"
   email            :
   links:
