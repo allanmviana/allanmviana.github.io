@@ -7,5 +7,5 @@ entries_layout: grid
 classes: wide
 ---
 
+Sample document listing for the collection `_portfolio`.
 
-Aqui estão os artigos e textos escritos por mim.
