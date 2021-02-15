@@ -241,6 +241,9 @@ collections:
   projetos:
     output: true
     permalink: /:collection/:path/
+  resenhas:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -252,7 +255,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _pages
   - scope:
@@ -261,7 +264,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _blog
   - scope:
@@ -270,7 +273,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _projetos
   - scope:
@@ -279,6 +282,13 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+  # _resenhas
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: false
       
