@@ -9,12 +9,12 @@
   margin-right: 0;
   width: 100%;
   margin-top: 3em;
-  color: #e0e0e0;
+  color: #222222;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
-  -webkit-animation-delay: 0.45s;
-  animation-delay: 0.45s;
-  background-color: $footer-background-color;
+  -webkit-animation-delay: 0s;
+  animation-delay: 0s;
+  background-color: #e0e0e0;
 
   footer {
     @include clearfix;
