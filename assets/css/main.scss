@@ -11,16 +11,16 @@ html {
     font-size: 12px; // originally 16px
     @include breakpoint($medium) {
         font-size: 14px; // originally 18px
-        line-height: 1.25;
+        line-height: 1.25 !important ;
     }
 
     @include breakpoint($large) {
         font-size: 16px; // originally 20px
-        line-height: 1.25;
+        line-height: 1.25 !important ;
     }
 
     @include breakpoint($x-large) {
         font-size: 18px; // originally 22px
-        line-height: 1.25;
+        line-height: 1.25 !important ;
     }
 }
