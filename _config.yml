@@ -238,9 +238,6 @@ collections:
   blog:
     output: true
     permalink: /:collection/:path/
-  projetos:
-    output: true
-    permalink: /:collection/:path/
   resenhas:
     output: true
     permalink: /:collection/:path/
